@@ -4,11 +4,20 @@
 
 **`Engineer by trade · Developer by passion · Builder by nature`**
 
-📍 Guangdong, China &nbsp;|&nbsp; 🔧 SolidWorks · Creo · AutoCAD &nbsp;|&nbsp; 💻 VS Code · Zed
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=PaRr0tBoY&color=58a6ff&style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/PaRr0tBoY?style=flat-square&color=58a6ff)
+![GitHub last commit](https://img.shields.io/github/last-commit/PaRr0tBoY/PaRr0tBoY?style=flat-square)
+![Mechanical Engineer](https://img.shields.io/badge/Mechanical%20Engineer-00599C?style=flat-square&logo=autodesk&logoColor=white)
+![AI Developer](https://img.shields.io/badge/AI-Developer-412991?style=flat-square&logo=openai&logoColor=white)
+![CAD](https://img.shields.io/badge/CAD-SolidWorks-red?style=flat-square)
 
 </div>
 
----
+</div>
+
+
 
 ## 🛠 Tech Stack
 
@@ -32,46 +41,23 @@
 
 </div>
 
----
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/PaRr0tBoY">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaRr0tBoY&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/PaRr0tBoY">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaRr0tBoY&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=PaRr0tBoY&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" />
 </a>
 
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=PaRr0tBoY&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" width="70%" />
-
-<br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=PaRr0tBoY&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</a>
 
 </div>
 
----
 
-## 🐍 Contribution Snake
+
+## 🐍 Contribution
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/PaRr0tBoY/PaRr0tBoY/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=PaRr0tBoY&color=58a6ff&style=flat-square)
-
-</div>
