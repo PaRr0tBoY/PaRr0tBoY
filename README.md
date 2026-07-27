@@ -21,6 +21,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PaRr0tBoY&show_icons=true&locale=en" alt="PaRr0tBoY" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PaRr0tBoY&" alt="PaRr0tBoY" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=PaRr0tBoY&" alt="PaRr0tBoY" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PaRr0tBoY&show_icons=true&locale=en&layout=compact" alt="PaRr0tBoY" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PaRr0tBoY" alt="PaRr0tBoY" /></a></p>
