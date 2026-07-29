@@ -6,9 +6,7 @@
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=PaRr0tBoY&color=58a6ff&style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/PaRr0tBoY?style=flat-square&color=58a6ff)
-![GitHub last commit](https://img.shields.io/github/last-commit/PaRr0tBoY/PaRr0tBoY?style=flat-square)
 ![Mechanical Engineer](https://img.shields.io/badge/Mechanical%20Engineer-00599C?style=flat-square&logo=autodesk&logoColor=white)
 ![AI Developer](https://img.shields.io/badge/AI-Developer-412991?style=flat-square&logo=openai&logoColor=white)
 ![CAD](https://img.shields.io/badge/CAD-SolidWorks-red?style=flat-square)
@@ -61,3 +59,5 @@
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/PaRr0tBoY/PaRr0tBoY/output/github-contribution-grid-snake-dark.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=PaRr0tBoY&color=58a6ff&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/PaRr0tBoY/PaRr0tBoY?style=flat-square)
