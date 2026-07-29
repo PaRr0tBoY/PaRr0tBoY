@@ -7,7 +7,7 @@
 <div align="center">
 
 ![GitHub stars](https://img.shields.io/github/stars/PaRr0tBoY?style=flat-square&color=58a6ff)
-![Engineer](https://img.shields.io/badge/Mechanical%20Engineer-00599C?style=flat-square&logo=autodesk&logoColor=white)
+![Engineer](https://img.shields.io/badge/Engineer-00599C?style=flat-square&logo=autodesk&logoColor=white)
 ![AI Developer](https://img.shields.io/badge/AI-Developer-412991?style=flat-square&logo=openai&logoColor=white)
 ![CAD](https://img.shields.io/badge/CAD-SolidWorks-red?style=flat-square)
 
