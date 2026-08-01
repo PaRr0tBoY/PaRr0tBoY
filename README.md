@@ -15,7 +15,15 @@
 
 </div>
 
+## 🔧 Building:
 
+- [Volante](https://parr0tboy.github.io/product/volante/landing/index.html) - Rebuild Vivaldi into a modern AI browser with mods.
+- [Pola Agent](https://github.com/PaRr0tBoY/Pola-Agent) - SolidWorks AI agent that models, assembles and exports via COM.
+- [hive](https://github.com/PaRr0tBoY/hive) - My fork of herdr, which keeps you in flow.
+- [Techne](https://github.com/PaRr0tBoY/Techne) - My skills & slash commands for AI coding agents.
+- [Trace](https://github.com/PaRr0tBoY/Trace) - AI-native task manager that lives on your desktop edge.
+- [Plateau](https://parr0tboy.github.io/) - My personal workbench, yet to be open sourced
+- [Tau](https://github.com/PaRr0tBoY/Tau) - My fork of oh-my-pi
 
 ## 🛠 Tech Stack
 
