@@ -25,29 +25,6 @@
 - [Plateau](https://parr0tboy.github.io/) - My personal workbench, yet to be open sourced
 - [Tau](https://github.com/PaRr0tBoY/Tau) - My fork of oh-my-pi
 
-## 🛠 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![TypeScript](https://skillicons.dev/icons?i=ts,py,js,java,c&theme=dark)
-
-**Frontend**
-
-![Frontend](https://skillicons.dev/icons?i=vue,html,css&theme=dark)
-
-**Backend & Data**
-
-![Backend](https://skillicons.dev/icons?i=nodejs,spring,mysql,redis,docker&theme=dark)
-
-**DevOps & Tools**
-
-![Tools](https://skillicons.dev/icons?i=bash,git,linux&theme=dark)
-
-</div>
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
